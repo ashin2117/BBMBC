@@ -1,4 +1,4 @@
-# BBMBC: Beta-Binomial Models for Vaccine-Specific Memory B Cell Frequency and Power Calculations
+# BBMBC: A Beta-Binomial Framework for Evaluating Rare Memory B-Cell Responses in Early-Phase Vaccine Trials
 
 [![CRAN status](https://www.r-pkg.org/badges/version/BBMBC)](https://CRAN.R-project.org/package=BBMBC)
 
@@ -6,9 +6,4 @@
 
 The methodology implemented in this package is motivated by analytical approaches used for HIV vaccine trial data (e.g., Parks et al., 2025).
 
-## Installation
-
-You can install the released version of **BBMBC** directly from CRAN:
-
-```R
-install.packages("BBMBC")
+All R code used in simulations in (DOI link will be provided soon) are available at this repository.
