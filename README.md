@@ -1,4 +1,4 @@
-# BBMBC: A Beta-Binomial Framework for Evaluating Rare Memory B-Cell Responses in Early-Phase Vaccine Trials
+# BBMBC: Beta-Binomial Models for Adaptive Immune Cell Frequencies and Power Calculations in Clinical Trials
 
 [![CRAN status](https://www.r-pkg.org/badges/version/BBMBC)](https://CRAN.R-project.org/package=BBMBC)
 
